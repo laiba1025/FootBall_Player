@@ -1,7 +1,8 @@
 # :football: Adding FootBall Players
 ## Web app to manage football players in a club
 
-!(https://github.com/laiba1025/FootBall_Player/assets/123197772/a687b3da-1f96-4c7c-999f-e0249c7d10c2)
+![Screenshot 2024-04-25 031852](https://github.com/laiba1025/FootBall_Player/assets/123197772/65db9398-5e50-4c1b-bd85-fc14198ca620)
+
 
 
 
